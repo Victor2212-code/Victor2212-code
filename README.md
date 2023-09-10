@@ -1,5 +1,4 @@
 <h1>Hi Dev, I'm Victor Hugo 🤖</h1>
-# Bem-vindo ao Meu GitHub!
 
 # Welcome to My GitHub!
 
@@ -29,6 +28,15 @@ With enthusiasm,
 
 Victor Hugo
 
+<h1> Technologies</h1>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+ 
 <h1>Performance Overview</h1>
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Victor2212-code&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
